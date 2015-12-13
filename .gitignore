@@ -58,3 +58,5 @@ target/
 
 *.ipynb_checkpoints/
 deliver/pivottablejs.html
+
+.DS_Store
